@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">DFC1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_search">Search Products</string>
+    <string name="title_activity_add_deal">Add Deal</string>
+
+    <string name="search_source">Source:</string>
+    <string name="search_dest">Destination:</string>
+    <string name="search_moreOptions">More Options:</string>
+    <string name="search_product">Product:</string>
+    <string name="search_buttonSearch">Save me money!</string>
+
+    <string-array name="airport_array">
+        <item>Tel Aviv, Israel (TLV)</item>
+        <item>Atlanta, GA (ATL)</item>
+        <item>Beijing, China (PEK)</item>
+        <item>London, United Kingdom - Heathrow (LHR)</item>
+        <item>Tokyo, Japan - Haneda (HND)</item>
+        <item>Paris, France - Charles Degaulle (CDG)</item>
+        <item>Istanbul, Turkey (IST)</item>
+        <item>Sao Paulo, Brazil - Guarulhos Intl (GRU)</item>
+    </string-array>
+
+
+
+</resources>
